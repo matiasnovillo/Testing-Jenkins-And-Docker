@@ -11,7 +11,7 @@ services:
       - "5000:5000"
     volumes:
       - jenkins_home:/var/jenkins_home
-      - /var/reun/docker.sock:/var/run/docker.sock
+      - /var/run/docker.sock:/var/run/docker.sock
 
 volumes:
   jenkins_home:

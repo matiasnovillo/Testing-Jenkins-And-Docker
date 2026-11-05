@@ -9,7 +9,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building...'
-                //Add your build commands here
+                sh 'dotnet build JenkinsBlazor.sln --configuration Release'
             }
         }//end stage Build
         stage('Test') {
@@ -25,4 +25,12 @@ pipeline {
             }
         }//end stage Deploy
     } //end stages
+    post {
+        success {
+            echo 'Pipeline ejecutado con éxito'
+        }
+        failure {
+            echo 'Pipeline fallido'
+        }
+    }
 } //end pipeline

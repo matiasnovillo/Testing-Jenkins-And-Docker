@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3eHVoe7VNFA=",
+  "dgSpecHash": "m1puNXbm0Ds=",
   "success": true,
-  "projectFilePath": "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\JenkinsBlazor\\JenkinsBlazor.csproj",
+  "projectFilePath": "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\src\\JenkinsBlazor\\JenkinsBlazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matias\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.14\\microsoft.aspnetcore.app.internal.assets.10.0.14.nupkg.sha512"
   ],

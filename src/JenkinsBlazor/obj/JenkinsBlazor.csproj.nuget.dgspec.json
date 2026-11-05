@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\JenkinsBlazor\\JenkinsBlazor.csproj": {}
+    "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\src\\JenkinsBlazor\\JenkinsBlazor.csproj": {}
   },
   "projects": {
-    "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\JenkinsBlazor\\JenkinsBlazor.csproj": {
+    "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\src\\JenkinsBlazor\\JenkinsBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\JenkinsBlazor\\JenkinsBlazor.csproj",
+        "projectUniqueName": "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\src\\JenkinsBlazor\\JenkinsBlazor.csproj",
         "projectName": "JenkinsBlazor",
-        "projectPath": "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\JenkinsBlazor\\JenkinsBlazor.csproj",
+        "projectPath": "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\src\\JenkinsBlazor\\JenkinsBlazor.csproj",
         "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
-        "outputPath": "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\JenkinsBlazor\\obj\\",
+        "outputPath": "C:\\FiyiStack\\G8-CICD\\Testing-Jenkins-And-Docker\\src\\JenkinsBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
